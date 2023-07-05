@@ -1,0 +1,24 @@
+{
+  "templates": [
+    {
+      "id": "template1",
+      "title": "Formal Template",
+      "Description": "This is very formal template"
+    },
+    {
+      "id": "template2",
+      "title": "Casual Template",
+      "Description": "This is very casual template"
+    },
+    {
+      "id": "template3",
+      "title": "Professional Template",
+      "Description": "This is very Professional template"
+    },
+    {
+      "id": "template4",
+      "title": "unprofessional Template",
+      "Description": "This is unprofessional template, try to avoid this at any cost"
+    }
+  ]
+}
